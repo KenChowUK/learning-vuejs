@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Meeting with John",
+      "day": "5th April 2021 at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Birthday Party with Daddy",
+      "day": "5th May 2021 at 10:00am",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Gathering with Basketball Teammates",
+      "day": "1st August 2021 at 11:00am",
+      "reminder": false
+    }
+  ]
+}
